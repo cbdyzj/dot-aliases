@@ -11,5 +11,4 @@ alias tail1='tail -n1'
 alias de='cd ~/Desktop'
 alias ls-npm='npm -g ls --depth 0'
 alias py-serve='python3 -m http.server'
-alias gradle-init-java='gradle init --type java-application --test-framework junit-jupiter --dsl groovy --project-name $(basename $(pwd)) --package $(basename $(pwd)) --incubating'
-
+alias vimrc='echo -e "syntax on\nset number autoindent softtabstop=4 laststatus=2"'
