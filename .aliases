@@ -7,6 +7,7 @@ alias code='open -b com.microsoft.VSCode'
 alias atom='open -b com.github.atom'
 alias iconv-gb18030='iconv -f gb18030'
 alias cwd='pwd | pbcopy'
-alias de='cd ~/Desktop'
 alias ls-npm='npm -g ls --depth 0'
 alias py-serve='python3 -m http.server'
+
+alias de='cd ~/Desktop'
