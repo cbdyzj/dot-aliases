@@ -20,3 +20,6 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # java
 export GRAALVM_HOME="$HOME/Library/Java/JavaVirtualMachines/graalvm-ce-21.0.2/Contents/Home"
+
+# gradle
+alias gradle="$HOME/gradle/gradle-8.7/bin/gradle"
